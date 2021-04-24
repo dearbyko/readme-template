@@ -11,16 +11,16 @@
 
 ## 설치 방법
 
-OS X & 리눅스:
+Install Libs:
 
-```sh
-npm install my-crazy-module --save
+```sh 
+yarn
 ```
 
-윈도우:
+Run with:
 
-```sh
-edit autoexec.bat
+```sh 
+expo start
 ```
 
 ## 사용 예제
